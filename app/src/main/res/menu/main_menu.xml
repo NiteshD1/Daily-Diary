@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/delete_all_notes"
+        app:showAsAction="never"
+        android:title="Delete All Task"/>
+    <item
+        android:id="@+id/date_picker"
+        app:showAsAction="ifRoom"
+        android:icon="@drawable/ic_date_range_black_24dp"
+        android:title="Choose Date"/>
+
+</menu>

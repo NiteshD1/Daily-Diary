@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#691b99</color>
+    <color name="colorPrimaryDark">#37006a</color>
+    <color name="colorAccent">#691b99</color>
+
+    <color name="colorTimeBg">#691b99</color>
+    <color name="colorTimeText">#ffffff</color>
+    <color name="colorDateText">#ffffff</color>
+    <color name="colorDescriptionBg">#ee98fb</color>
+    <color name="colorDescriptionText">#292f33</color>
+    <color name="colorTickLight">#292f33</color>
+    <color name="colorTickDark">#691b99</color>
+    <color name="white">#ffffff</color>
+</resources>
