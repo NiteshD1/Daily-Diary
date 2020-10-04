@@ -5,13 +5,13 @@ Daily diary is a Android App to plan your day in few simple steps.
 ##  Demo
 
 
-https://j.gifs.com/2xB4AN.gif  
+https://j.gifs.com/jZ3PVW.gif 
 
-[![Demo CountPages alpha](https://j.gifs.com/2xB4AN.gif)] 
+[![Demo CountPages alpha](https://j.gifs.com/jZ3PVW.gif)] 
 
 
-https://j.gifs.com/OMBl2p.gif
-[![Demo CountPages alpha](https://j.gifs.com/OMBl2p.gif)] 
+https://j.gifs.com/mO3PVA.gif
+[![Demo CountPages alpha](https://j.gifs.com/mO3PVA.gif)] 
          
                                                                                                           
                                                         
@@ -30,19 +30,7 @@ This app is created to plan your day in just few steps.
 - Create task and delete task whenever you want
 - Right check on the task which you have completed
 
-https://j.gifs.com/YWPp9p.gif
-[![Demo CountPages alpha](https://j.gifs.com/YWPp9p.gif)] 
 
-
-
-https://j.gifs.com/jZ4Q9W.gif
-[![Demo CountPages alpha](https://j.gifs.com/jZ4Q9W.gif)] 
-
-
-
-
-https://j.gifs.com/GvqnVy.gif
-[![Demo CountPages alpha](https://j.gifs.com/GvqnVy.gif)] 
 
 ## Technology used
 
