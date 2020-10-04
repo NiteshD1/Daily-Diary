@@ -1,5 +1,5 @@
 # Daily-Diary(Android Studio Project)
-Daily diary is a Android App to plan your day. 
+Daily diary is a Android App to plan your day in few simple steps. 
 
 
 ##  Demo
@@ -21,9 +21,9 @@ https://j.gifs.com/OMBl2p.gif
 ## Core Idea
 This app is created to plan your day in just few steps.
 
-### Create task by pressing bottom right corner button
-### Select time duration
-### Write description about task and save your task
+- Create task by pressing bottom right corner button
+- Select time duration
+- Write description about task and save your task
 
 ###    Feature
 - Easy to use simple user Interface
