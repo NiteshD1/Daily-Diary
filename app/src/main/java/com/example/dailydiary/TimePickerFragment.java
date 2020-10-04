@@ -21,4 +21,8 @@ public class TimePickerFragment extends DialogFragment {
 //        int minute = c.get(Calendar.MINUTE);
         return new TimePickerDialog(getActivity(),(TimePickerDialog.OnTimeSetListener) getActivity(),0,0, true);
     }
+
+    public void exampleFunction(){
+        // demo branch check
+    }
 }
