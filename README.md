@@ -44,5 +44,5 @@ This app is created to plan your day in just few steps.
 
 
 #### Related Link
-- You can find this app on playstore by clicking [**here**](https://play.google.com/store/apps/details?id=org.studyquiz.learnenglish)
+- You can find this app on playstore by clicking [**here**](https://play.google.com/store/apps/details?id=com.studyquiz.dailydiary)
 
