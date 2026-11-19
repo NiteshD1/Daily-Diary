@@ -1,4 +1,4 @@
-# Daily-Diary(Android Studio Project)
+# Daily-Diary Android App
 Daily diary is a Android App to plan your day in few simple steps. 
 
 
@@ -32,17 +32,11 @@ This app is created to plan your day in just few steps.
 
 
 
-## Technology used
+## Technology and tools used
 
-### Front End Development
 - UI is developed with Xml(inside android studio)
 - All the graphics are made with photoshop(such as Icon and Screenshots). 
-
-### Back End Development
 - Java as programming language
 - Using MVVM(Model–view–viewmodel) architecture(Live Data and Room for database purpose)
 
-
-#### Related Link
-- You can find this app on playstore by clicking [**here**](https://play.google.com/store/apps/details?id=com.studyquiz.dailydiary)
 
