@@ -1,22 +1,7 @@
 # Daily-Diary Android App
 Daily diary is a Android App to plan your day in few simple steps. 
-
-
-##  Demo
-
-
-https://j.gifs.com/jZ3PVW.gif 
-
-[![Demo CountPages alpha](https://j.gifs.com/jZ3PVW.gif)] 
-
-
-https://j.gifs.com/mO3PVA.gif
-[![Demo CountPages alpha](https://j.gifs.com/mO3PVA.gif)] 
          
-                                                                                                          
-                                                        
-                                                      
-                                                        
+                                                                                                                                                                          
 
 ## Core Idea
 This app is created to plan your day in just few steps.
